@@ -253,10 +253,11 @@ button.btn, input.btn {
   }
   img.img-responsive {
     @include bp-xsmall {
-      display: none;
+      width: 100%;
     }
     @include bp-small {
-      display: none;
+//      display: none;
+        width: 100%;
     }
   }
   .content {

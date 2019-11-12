@@ -6019,10 +6019,10 @@ button.btn, input.btn {
       margin-bottom: 2em; } }
   @media only screen and (max-width: 768px) {
     .content-wrap img.img-responsive {
-      display: none; } }
+      width: 100%; } }
   @media only screen and (min-width: 770px) and (max-width: 990px) {
     .content-wrap img.img-responsive {
-      display: none; } }
+      width: 100%; } }
   .content-wrap .content {
     margin-top: 5em;
     margin-left: 5em; }
