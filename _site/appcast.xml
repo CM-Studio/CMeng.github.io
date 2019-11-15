@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Uranus</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Thu, 14 Nov 2019 17:05:31 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="http://127.0.0.1:4000/uranus/Uranus.dmg" sparkle:version="103" sparkle:shortVersionString="1.0" length="15873655" type="application/octet-stream"/>
+            <description><![CDATA[<h2>New Features</h2>
+<p>1. add test</p>
+<p>1. add test</p>]]></description>
+        </item>
+    </channel>
+</rss>

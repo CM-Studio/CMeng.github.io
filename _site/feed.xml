@@ -3,10 +3,10 @@
   <channel>
     <title>CM Studio</title>
     <description>We come from China and we creating mutiply software. Making a better world.😀</description>
-    <link>http://localhost:4000//</link>
-    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Nov 2019 23:11:39 +0800</pubDate>
-    <lastBuildDate>Tue, 12 Nov 2019 23:11:39 +0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 14 Nov 2019 19:08:57 +0800</pubDate>
+    <lastBuildDate>Thu, 14 Nov 2019 19:08:57 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Sun, 21 Feb 2016 05:15:00 +0800</pubDate>
-        <link>http://localhost:4000//development/design/2016/02/21/pineconesuppress.html</link>
-        <guid isPermaLink="true">http://localhost:4000//development/design/2016/02/21/pineconesuppress.html</guid>
+        <link>http://localhost:4000/development/design/2016/02/21/pineconesuppress.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/design/2016/02/21/pineconesuppress.html</guid>
         
         <category>Mac</category>
         

@@ -16,7 +16,7 @@
 title: "CM Studio"
 email: 'judi0713@foxmail.com'
 description: "We come from China and we creating mutiply software. Making a better world.😀"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://CM-Studio.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 'judi0713'
 github_username: 'CM-Studio'
