@@ -11,8 +11,7 @@
 <p>3. 增加本地化</p>
 ]]></description>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://cm-studio.github.io/uranus/Uranus.dmg" sparkle:version="108" sparkle:shortVersionString="1.0" length="16175240" type="application/octet-stream"        
-              sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
+            <enclosure url="https://cm-studio.github.io/uranus/Uranus.dmg" sparkle:version="108" sparkle:shortVersionString="1.0" type="application/octet-stream"  sparkle:edSignature="S4r3zIuvVUECHRKFk9pZTZGV5SXFqRsyAhVaXk5R9KpXfQ5HWzUSBqa/4N3gvZYrTPqx8+9KM8qy+S1EYR+zBw==" length="16175237" />
         </item>
     </channel>
 </rss>
