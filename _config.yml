@@ -30,6 +30,8 @@ markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
   - jekyll-paginate
+timezone: Asia/Shanghai
+future: true
 
 ### Phantom settings
 paginate: 5

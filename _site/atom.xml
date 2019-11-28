@@ -4,13 +4,22 @@
  <title>Creamo Studio</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-11-28T17:13:37+08:00</updated>
+ <updated>2019-11-28T20:52:10+08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Creamo Studio</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Uranus</title>
+   <link href="http://localhost:4000/development/design/2019/11/29/uranus.html"/>
+   <updated>2019-11-29T04:20:00+08:00</updated>
+   <id>http://localhost:4000/development/design/2019/11/29/uranus</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>PineconeSuppress</title>
