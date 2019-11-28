@@ -4,24 +4,11 @@
         <title>Uranus</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 21 Nov 2019 21:43:02 +0800</pubDate>
+            <pubDate>Thu, 28 Nov 2019 21:16:33 +0800</pubDate>
+            <description><![CDATA[<h2>正式版本前的版本</h2>
+<ol> <li>优化内存使用</li> <li>增加下载故事和高亮时刻的没有 Cookie 的提醒</li><li>修复部分已知问题</li></ol>]]></description>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://cm-studio.github.io/uranus/Uranus.dmg" sparkle:version="109" sparkle:shortVersionString="1.0" length="16175635" type="application/octet-stream" sparkle:edSignature="pPDZU9+FNY73wsKQ34urL31iy16h7syPHjZg7f0BrzjlkytgokW6F0D9UXDoGw3wwGr47jGc9FztND4+R+BNBw=="/>
-            <description><![CDATA[<h2>New Features</h2>
-<p>1. 修复黑暗模式问题</p>
-<p>2. 优化性能</p>
-]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Sun, 17 Nov 2019 20:57:51 +0800</pubDate>
-            <description><![CDATA[<h2>New Features</h2>
-<p>1. 增加拖拽功能</p>
-<p>2. 调整图片尺寸</p>
-<p>3. 增加本地化</p>
-]]></description>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://cm-studio.github.io/uranus/Uranus.dmg" sparkle:version="108" sparkle:shortVersionString="1.0" type="application/octet-stream"  sparkle:edSignature="S4r3zIuvVUECHRKFk9pZTZGV5SXFqRsyAhVaXk5R9KpXfQ5HWzUSBqa/4N3gvZYrTPqx8+9KM8qy+S1EYR+zBw==" length="16175237" />
+            <enclosure url="https://creamo.studio/uranus/Uranus.dmg" sparkle:version="110" sparkle:shortVersionString="1.0" length="16183726" type="application/octet-stream" sparkle:edSignature="QbBSZUXS0YRqUxCmVt0mrZ8ptyj2jfAYNs2q3rGUvBKbzwpcmGvjFlhrKhDB7chOhg73R9YCH4flSvx7dS1uCg=="/>
         </item>
     </channel>
 </rss>
