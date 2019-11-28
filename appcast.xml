@@ -8,7 +8,7 @@
             <description><![CDATA[<h2>正式版本前的版本</h2>
 <ol> <li>优化内存使用</li> <li>增加下载故事和高亮时刻的没有 Cookie 的提醒</li><li>修复部分已知问题</li><li>修复目录失效问题</li></ol>]]></description>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://creamo.studio/urauns/Uranus.dmg" sparkle:version="111" sparkle:shortVersionString="1.0" length="16194210" type="application/octet-stream" sparkle:edSignature="sQ2tKA/mqAMmAs2NWkUZ8Kya31fvIGQpskngz6E9UBXbnyK+9dTzpT2rJuYZLwJOXqWuIakbQ4SURG7IilG9AA=="/>
+            <enclosure url="https://creamo.studio/uranus/Uranus.dmg" sparkle:version="111" sparkle:shortVersionString="1.0" length="16194210" type="application/octet-stream" sparkle:edSignature="sQ2tKA/mqAMmAs2NWkUZ8Kya31fvIGQpskngz6E9UBXbnyK+9dTzpT2rJuYZLwJOXqWuIakbQ4SURG7IilG9AA=="/>
         </item>
     </channel>
 </rss>
