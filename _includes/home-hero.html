@@ -13,7 +13,7 @@
           {% endif %}
 
           {% if site.description != '' or site.enable_contact == true %}
-          <p class="text-center">
+          <p class="text-center description">
             {% if site.description != '' %}
             {{site.description}}
             {% endif %}
@@ -21,6 +21,11 @@
             {% if site.enable_contact == true %}
             {% include contact.html %}
             {% include contact-modal.html %}
+            {% endif %}
+          </p>
+          <p class="text-center description sub_description">
+            {% if site.sub_description != '' %}
+            {{site.sub_description}}
             {% endif %}
           </p>
           {% endif %}

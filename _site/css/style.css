@@ -5922,12 +5922,16 @@ button.btn, input.btn {
   .hero-content h1 {
     font-size: 48px; }
   .hero-content p {
-    margin: 2em 0 4em 0; }
+    margin: 2em 0 0em 0; }
   .hero-content .hero-buttons {
     margin: 0 auto;
     display: table; }
     .hero-content .hero-buttons i {
       padding-right: 0.5em; }
+  .hero-content .sub_description {
+    margin: 1em 0 0em 0;
+    color: #9eb1bd;
+    font-size: 1em; }
 
 /*--------------------------------------------------------------
 	2.1 Contact

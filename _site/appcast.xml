@@ -4,12 +4,24 @@
         <title>Uranus</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 14 Nov 2019 17:05:31 +0800</pubDate>
+            <pubDate>Thu, 21 Nov 2019 21:43:02 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="http://127.0.0.1:4000/uranus/Uranus.dmg" sparkle:version="103" sparkle:shortVersionString="1.0" length="15873655" type="application/octet-stream"/>
+            <enclosure url="https://cm-studio.github.io/uranus/Uranus.dmg" sparkle:version="109" sparkle:shortVersionString="1.0" length="16175635" type="application/octet-stream" sparkle:edSignature="pPDZU9+FNY73wsKQ34urL31iy16h7syPHjZg7f0BrzjlkytgokW6F0D9UXDoGw3wwGr47jGc9FztND4+R+BNBw=="/>
             <description><![CDATA[<h2>New Features</h2>
-<p>1. add test</p>
-<p>1. add test</p>]]></description>
+<p>1. 修复黑暗模式问题</p>
+<p>2. 优化性能</p>
+]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sun, 17 Nov 2019 20:57:51 +0800</pubDate>
+            <description><![CDATA[<h2>New Features</h2>
+<p>1. 增加拖拽功能</p>
+<p>2. 调整图片尺寸</p>
+<p>3. 增加本地化</p>
+]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://cm-studio.github.io/uranus/Uranus.dmg" sparkle:version="108" sparkle:shortVersionString="1.0" type="application/octet-stream"  sparkle:edSignature="S4r3zIuvVUECHRKFk9pZTZGV5SXFqRsyAhVaXk5R9KpXfQ5HWzUSBqa/4N3gvZYrTPqx8+9KM8qy+S1EYR+zBw==" length="16175237" />
         </item>
     </channel>
 </rss>
