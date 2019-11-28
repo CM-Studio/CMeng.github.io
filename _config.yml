@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: "Creamo Studio"
 email: 'judi0713@foxmail.com'
-description: "Create More"
-sub_description: "Come from China. Aim to create more interesting software. Making a better world.:-D"
+description: "Creamo = Create More"
+sub_description: "Come from China. Aim to create more interesting software. Making a better world:-D"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://creamo.studio" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 'judi0713'
