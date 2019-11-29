@@ -37,7 +37,6 @@ future: true
 paginate: 5
 footer_text: '© 2019 Creamo Studio'
 admin_name: 'Creamo Studio'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
 #### Phantom Navigation menu
