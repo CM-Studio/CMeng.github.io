@@ -6,9 +6,9 @@
             <title>Version 1.0(Improved)</title>
             <pubDate>Sat, 30 Nov 2019 21:51:11 +0800</pubDate>
             <description><![CDATA[<h2>Version 1.0(112)</h2>
-<ol> <li>更新本地化</li></ol>]]></description>
+<ul> <li>完善本地化功能</li></ul>]]></description>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://creamo.studio/uranus/Uranus.dmg" sparkle:version="112" sparkle:shortVersionString="1.0" length="15916683" type="application/octet-stream" sparkle:edSignature="U/2yuFwDoTRy7JKiNzV1NEkDA4qfogzvbHPeg6alfrbcVH1PIcm03HbOAy2fDOU05imVmioN4ULb9ICCqfjZAg=="/>
+            <enclosure url="https://creamo.studio/uranus/Uranus.dmg" sparkle:version="112" sparkle:shortVersionString="1.0" length="15916683" type="application/octet-stream" sparkle:edSignature="fQL+FvoyqxcdfYbbIRojv4hcCYQV4B2bXp8XFDbra2gpr5Ppn7+EVB3tVVFpODjYc1sXI/diWpDa4gzT77DXCQ=="/>
         </item>
         <item>
             <title>Version 1.0(1 bug fixed)</title>
