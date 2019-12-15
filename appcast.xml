@@ -3,6 +3,16 @@
     <channel>
         <title>Uranus</title>
         <item>
+            <title>Version 1.0(Bug fixed)</title>
+            <pubDate>Sun, 15 Dec 2019 21:44:43 +0800</pubDate>
+            <description><![CDATA[<h2>Version 1.0(115)</h2>
+<ol> <li>修复部分细节显示问题</li></ol>
+<ol> <li>修复已知的崩溃问题</li></ol>
+<ol> <li>优化内存使用</li></ol>]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://creamo.studio/uranus/Uranus.dmg" sparkle:version="115" sparkle:shortVersionString="1.0" length="15816200" type="application/octet-stream" sparkle:edSignature="eEuwk/2Gm62a2L2N7LjOhEbK+UG5IM6GprPS7+t1a8vCrueBxd8gbi4MmJY0AjYb+mdFkNHc5UucR6WzPzZ8DQ=="/>
+        </item>
+        <item>
             <title>Version 1.0(Bug fixed and Improved)</title>
             <pubDate>Sun, 15 Dec 2019 18:27:55 +0800</pubDate>
             <description><![CDATA[<h2>Version 1.0(114)</h2>
