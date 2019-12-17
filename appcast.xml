@@ -2,6 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Uranus</title>
+        <title>Uranus</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Tue, 17 Dec 2019 13:05:29 +0800</pubDate>
+            <description><![CDATA[<h2>Version 1.0(117)</h2>
+<ol> <li>修复部分已知问题</li></ol>
+<ol> <li>增加双击打开文件</li></ol>
+<ol> <li>优化部分文本显示</li></ol>]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://creamo.studio/uranus/Uranus.dmg" sparkle:version="117" sparkle:shortVersionString="1.0" length="15819995" type="application/octet-stream" sparkle:edSignature="Xew+SOHuP3NcB6nVHZIDM3RjCMp/QwpwR0MPBpU7sVyqc9lPlVRWH1sIcAqkzVUZuG20NiWMJO6zhDRwXcs7Dw=="/>
+        </item>
         <item>
             <title>Version 1.0(Improved)</title>
             <pubDate>Sun, 17 Dec 2019 12:00:43 +0800</pubDate>
